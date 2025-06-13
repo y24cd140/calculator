@@ -32,10 +32,3 @@ This is a simple command-line calculator written in Python. It allows users to p
 
 ---
 
-## 💻 Getting Started
-
-1. Clone this repository or download the `.py` file.
-2. Run the Python script:
-
-```bash
-python calculator.py
